@@ -1,0 +1,32 @@
+.container {
+    max-width: 400px;
+    margin: 20px auto;
+}
+.userInput {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.input {
+    flex: 1;
+    padding: 10px; 
+    margin-right: 10px;
+}
+.usdIrrBtn {
+    padding: 12px 11px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+.result {
+    display: flex; 
+    align-items: center; 
+    margin-bottom: 10px;
+}
+.resultInput {
+    flex: 1;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc
+}
